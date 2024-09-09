@@ -1,7 +1,7 @@
 
 
 Matrix rain
-Este proyecto consiste en la famosa pantalla de lluvia perteneciente a la pelicula matrix, construida utilizando HTML, CSS y JavaScript. A continuación, se detallan los componentes principales del código y su funcionalidad. Y esta basado en en video de adey code
+Este proyecto consiste en la famosa pantalla de lluvia perteneciente a la pelicula matrix, construida utilizando HTML, CSS y JavaScript. A continuación, se detallan los componentes principales del código y su funcionalidad. 
 
 [![imagen-2024-09-09-131430725.png](https://i.postimg.cc/RZbvSTHw/imagen-2024-09-09-131430725.png)](https://postimg.cc/NKT3bmb0)
 
