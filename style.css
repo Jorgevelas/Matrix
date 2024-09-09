@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+body {
+    background: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    color: #00ff00; 
+    font-size: larger;
+}
+h1, p {
+    opacity: 1;
+    animation: fadeOut 15s forwards; 
+}
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+#canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
